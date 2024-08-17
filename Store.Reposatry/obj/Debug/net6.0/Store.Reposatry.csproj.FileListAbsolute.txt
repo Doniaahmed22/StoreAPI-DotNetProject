@@ -1,0 +1,105 @@
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\refint\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Reposatry\obj\Debug\net6.0\ref\Store.Reposatry.dll

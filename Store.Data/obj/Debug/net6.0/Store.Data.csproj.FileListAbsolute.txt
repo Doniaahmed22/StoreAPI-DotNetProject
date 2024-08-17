@@ -1,0 +1,84 @@
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\bin\Debug\net6.0\Store.Data.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\refint\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Data\obj\Debug\net6.0\ref\Store.Data.dll

@@ -1,0 +1,563 @@
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\appsettings.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.staticwebassets.runtime.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.exe
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.runtimeconfig.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\AutoMapper.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Humanizer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Stripe.net.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.Store.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Store.Api.props
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\scopedcss\bundle\Store.Api.styles.css
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\refint\Store.Api.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\Store.Api.genruntimeconfig.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Api\obj\Debug\net6.0\ref\Store.Api.dll

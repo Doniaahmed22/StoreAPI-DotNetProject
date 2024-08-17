@@ -1,0 +1,119 @@
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api - Copy\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 2\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 3\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 4\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 5\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Data.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Reposatry.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Reposatry.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+D:\VisualStodioProjects\course\assignments\Store.Api assignment 6\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
